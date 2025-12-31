@@ -1,0 +1,23 @@
+BITCOIN SENTIMENT TRADER ANALYSIS - INSIGHTS REPORT
+============================================================
+
+Total Trades: 26,064
+Total Net P&L: $728,820.51
+Overall Win Rate: 34.6%
+
+KEY INSIGHTS:
+------------------------------------------------------------
+1. ✓ HIGHEST WIN RATE: 40.1% during Fear conditions
+2. ✓ MOST PROFITABLE: $370,071.31 total profit during Fear conditions
+3. ✓ BEST AVERAGE: $45.65 per trade during Fear conditions
+4. ✗ Extreme Fear: 33.9% win rate, average loss $-181.72
+5. ✗ Extreme Greed: 34.7% win rate, average loss $-16.65
+6. ✗ Highest position size volatility during Fear ($121,112.57 std)
+7. 📊 Position Sizing Bias: 1.9x larger positions during Fear vs Extreme Greed
+8. 📈 Long Bias: 83% long trades during Extreme Fear (potential confirmation bias)
+9. 📈 Long Bias: 72% long trades during Fear (potential confirmation bias)
+10. ⚡ Overtrading Alert: 9823 trades during Neutral vs 731 in quietest period
+11. ✗ RULE 2: Reduce or avoid trading during Extreme Fear, Fear, Neutral, Greed, Extreme Greed (win rate < 45%)
+12. 💰 RULE 3: Current largest positions during Fear ($31,609) - verify this aligns with win rate
+13. 📈 RULE 4: Favor LONG positions during Extreme Fear (better performance)
+14. 📈 RULE 4: Favor LONG positions during Extreme Greed (better performance)
