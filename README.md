@@ -1,5 +1,3 @@
-# Bitcoin Sentiment Trader Analysis
-
 ## Overview
 This project explores the relationship between trader performance and market sentiment (Fear & Greed Index) to uncover hidden patterns and deliver actionable trading insights.
 
@@ -73,3 +71,15 @@ jupyter notebook notebooks/trader_sentiment_analysis.ipynb
 - scipy: Statistical tests
 - statsmodels: Advanced statistical analysis
 - scikit-learn: Machine learning utilities
+
+## Output
+<div>
+<img width="2382" height="1181" alt="cumulative_pnl_sentiment" src="https://github.com/user-attachments/assets/1bac43c0-13e6-4260-9384-238f2c6b53f3" />
+<img width="4764" height="1763" alt="pnl_by_sentiment" src="https://github.com/user-attachments/assets/579894d0-d73b-41ff-8826-b3829b0844aa" />
+<img width="4766" height="1763" alt="position_size_sentiment" src="https://github.com/user-attachments/assets/2a69bc4d-4770-43df-a883-4712e4f34c53" />
+<img width="4764" height="3561" alt="trade_timeline" src="https://github.com/user-attachments/assets/811410c6-b91e-4331-8520-83dceae8a92b" />
+<img width="2775" height="1762" alt="win_rate_heatmap" src="https://github.com/user-attachments/assets/d69275af-e9d2-4e3c-b08a-1a4b024bce4c" />
+
+</div>
+
+
